@@ -94,12 +94,6 @@ Built with modern full-stack technologies to streamline freelance hiring and pro
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanfawwaz&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
----
-
 ## 📬 Connect With Me
 
 - **GitHub:** [khanfawwaz](https://github.com/khanfawwaz)
